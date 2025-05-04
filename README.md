@@ -1,4 +1,4 @@
-# Personal-Expense-Tracker
+# Personal-Expense-Tracker https://akashneog.github.io/Personal-Expense-Tracker/
 Personal Expense Tracker
 This is a simple and interactive Personal Expense Tracker web application built with HTML, CSS, JavaScript, and Chart.js. The app allows users to track their daily expenses, filter data by categories and dates, visualize expenses, and export data to CSV format. Additionally, a dark mode feature is included.
 
